@@ -1,2 +1,2 @@
 # Welcome to my website
-Hello, I'm Tingyu and welcome to my website! This is a place where I put all the things I want to share with you guys. Hope you like it. First, a short introduction to myself. I received Bachelor Degree of Engineering in Sun Yat-sen University, and I am now pursuing a Master Degree of Electric Engineering in Columbia University. I am interested in Artificial Intelligent and I used to do something related to FPGA design. 
+Hello, I'm Tingyu and welcome to my website! This is a place where I put all the things I want to share with you guys. Hope you like it. 
